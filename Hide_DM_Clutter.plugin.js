@@ -1,6 +1,6 @@
 /**
  * @name Hide DM Clutter
- * @author Custom
+ * @author GamerFrom93
  * @description Hides the Nitro, Shop, and Quests menus in Discord's Direct Messages area. Did this on account me finding them fucking annoying and invasive.
  * @version 1.0.0
  */
